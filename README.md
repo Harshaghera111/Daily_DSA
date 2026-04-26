@@ -63,3 +63,78 @@ This is a personal learning repository to track progress and improve coding skil
 ---
 
 ⭐ Feel free to explore and learn along!
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+## 🛠️ Daily Git Workflow
+
+Follow these steps every day after solving a problem:
+
+### 1️⃣ Add your solution
+
+* Create a new file
+  `Day-XX-ProblemName.java`
+* Update the README (progress tracker)
+
+---
+
+### 2️⃣ Check changes
+
+```bash
+git status
+```
+
+---
+
+### 3️⃣ Stage files
+
+```bash
+git add .
+```
+
+---
+
+### 4️⃣ Commit changes
+
+```bash
+git commit -m "Day XX - Problem Name (Approach)"
+```
+
+**Example:**
+
+```bash
+git commit -m "Day 02 - Longest Substring (Sliding Window)"
+```
+
+---
+
+### 5️⃣ Push to GitHub
+
+```bash
+git push
+```
+
+---
+
+## 🔁 Daily Rule
+
+```text
+Code → Add → Commit → Push
+```
+
+---
+
+## ⚠️ Important Notes
+
+* No need to run `git init` again
+* No need to set remote again
+* Just repeat the 3 commands daily
+
+---
+
+## 🔥 Tip
+
+> “Consistency beats intensity.”
