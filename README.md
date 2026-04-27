@@ -21,7 +21,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day    | Problem                                        | Approach           |
 | ------ | ---------------------------------------------- | ------------------ |
 | Day 01 | Two Sum                                        | HashMap            |
-| Day 02 | Longest Substring Without Repeating Characters | Sliding Window     |
+| Day 02 | Valid Anagram                                  | Frequncy Count     |
 | Day 03 | Maximum Subarray                               | Kadane’s Algorithm |
 
 *(Will be updated daily)*
