@@ -1,4 +1,5 @@
-    import java.util.*;
+   //time complexity: O(n)
+   import java.util.*;
 
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
