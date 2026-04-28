@@ -22,7 +22,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | ------ | ---------------------------------------------- | ------------------ |
 | Day 01 | Two Sum                                        | HashMap            |
 | Day 02 | Valid Anagram                                  | Frequncy Count     |
-| Day 03 | Maximum Subarray                               | Kadane’s Algorithm |
+| Day 03 | Group Anagrams                                 | HashMap            |
 
 *(Will be updated daily)*
 
