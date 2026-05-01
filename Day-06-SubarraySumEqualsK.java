@@ -1,3 +1,5 @@
+//Time Complexity: O(n)
+//560. Subarray Sum Equals K
 import java.util.*;
 
 class Solution {
