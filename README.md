@@ -26,7 +26,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 04 | BuySell stock in max profit                    | Basic Looping concept|
 | Day 05 | Product of Array Except Self                   | Basic Looping concept|
 | Day 06 | Subarray Sum equals to k                       | Hashmap and loop|
-
+| Day 07 | Longest Repeating Character Replacement        | Sliding window and loop|
 (Will be updated daily)
 
 ---
