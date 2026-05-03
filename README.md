@@ -27,6 +27,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 05 | Product of Array Except Self                   | Basic Looping concept|
 | Day 06 | Subarray Sum equals to k                       | Hashmap and loop|
 | Day 07 | Longest Repeating Character Replacement        | Sliding window and loop|
+| Day 08 | 3 sum                                          | nested loops|
 (Will be updated daily)
 
 ---
