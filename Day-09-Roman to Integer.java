@@ -1,5 +1,8 @@
 // 13. Roman to Integer
 //time complexity: O(n)
+
+import java.util.HashMap;
+
 class Solution {
     public int romanToInt(String s) {
        HashMap<Character,Integer> set=new HashMap<>();
