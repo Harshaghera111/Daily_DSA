@@ -29,6 +29,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 07 | Longest Repeating Character Replacement        | Sliding window and loop|
 | Day 08 | 3 sum                                          | Nested loops|
 | Day 09 | Roman to Integer                               |Hashmap & loops|
+| Day 10 | Find the Duplicate Number                      |HashSet|
 (Will be updated daily)
 
 ---
