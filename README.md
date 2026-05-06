@@ -30,6 +30,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 08 | 3 sum                                          | Nested loops|
 | Day 09 | Roman to Integer                               |Hashmap & loops|
 | Day 10 | Find the Duplicate Number                      |HashSet|
+| Day 11 | Intersection of two array                      |HashSet & loops|
 (Will be updated daily)
 
 ---
