@@ -33,6 +33,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 11 | Intersection of two array                      |HashSet & loops|
 | Day 12 | Majority element                               |HashMap & loops|
 | Day 13 | Top K frequent element                         |HashMap & loops|
+| Day 14 | Valid Sudoku                                   |HashSet & loops|
 (Will be updated daily)
 
 ---
