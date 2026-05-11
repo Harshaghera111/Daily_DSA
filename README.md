@@ -35,7 +35,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 13 | Top K frequent element                         |HashMap & loops|
 | Day 14 | Valid Sudoku                                   |HashSet & loops|
 | Day 15 | Binary Search                                  |While loop and divide|
-| Day 16 | Single Number                                  |HashMap|
+| Day 16 | Single Number                                  |HashMap & loop|
 (Will be updated daily)
 
 ---
