@@ -36,6 +36,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 14 | Valid Sudoku                                   |HashSet & loops|
 | Day 15 | Binary Search                                  |While loop and divide|
 | Day 16 | Single Number                                  |HashMap & loop|
+| Day 17 | Find pivot index                               |loop|
 (Will be updated daily)
 
 ---
