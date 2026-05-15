@@ -39,6 +39,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 17 | Find pivot index                               |loop|
 | Day 18 | Find first and last                            |Divide and loops|
 | Day 19 | happy Number                                   |HashSet|
+| Day 20 | Contain Duplicate II                           |Hashmap|
 (Will be updated daily)
 
 ---
