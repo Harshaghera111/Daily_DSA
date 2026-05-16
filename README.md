@@ -40,6 +40,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 18 | Find first and last                            |Divide and loops|
 | Day 19 | happy Number                                   |HashSet|
 | Day 20 | Contain Duplicate II                           |Hashmap|
+| Day 21 | Isomorphic Strings                             |Hashmap & HashSet|
 (Will be updated daily)
 
 ---
