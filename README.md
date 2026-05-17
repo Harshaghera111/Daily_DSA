@@ -41,6 +41,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 19 | happy Number                                   |HashSet|
 | Day 20 | Contain Duplicate II                           |Hashmap|
 | Day 21 | Isomorphic Strings                             |Hashmap & HashSet|
+| Day 22 | Ransome Note                             |Hashmap|
 (Will be updated daily)
 
 ---
