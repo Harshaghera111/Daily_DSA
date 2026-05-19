@@ -43,6 +43,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 21 | Isomorphic Strings                             |Hashmap & HashSet|
 | Day 22 | Ransome Note                                   |Hashmap|
 | Day 23 | Longest Common Prefix                          |Loop|
+| Day 24 | Missing Number                                 |Loop|
 (Will be updated daily)
 
 ---
