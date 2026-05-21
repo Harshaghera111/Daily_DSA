@@ -45,6 +45,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 23 | Longest Common Prefix                          |Loop|
 | Day 24 | Missing Number                                 |Loop|
 | Day 25 | Find Peak Element                              |Loop|
+| Day 26 | Search Insertion Positi                        |Loop|
 (Will be updated daily)
 
 ---
