@@ -46,7 +46,8 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 24 | Missing Number                                 |Loop|
 | Day 25 | Find Peak Element                              |Loop|
 | Day 26 | Search Insertion Position                      |Loop|
-| Day 26 | Square of sorted array                         |Loop|
+| Day 27 | Square of sorted array                         |Loop|
+| Day 28 | Find All Numbers Disappeared in an Array       |Loop|
 (Will be updated daily)
 
 ---
