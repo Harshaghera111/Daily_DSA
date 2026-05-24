@@ -48,6 +48,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 26 | Search Insertion Position                      |Loop|
 | Day 27 | Square of sorted array                         |Loop|
 | Day 28 | Find All Numbers Disappeared in an Array       |Loop|
+| Day 29 | Find the difference                            |Loop|
 (Will be updated daily)
 
 ---
