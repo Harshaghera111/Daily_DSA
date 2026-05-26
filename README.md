@@ -49,6 +49,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 27 | Square of sorted array                         |Loop|
 | Day 28 | Find All Numbers Disappeared in an Array       |Loop|
 | Day 29 | Find the difference                            |Loop|
+| Day 30 | Daily temperature                              |Loop|
 (Will be updated daily)
 
 ---
