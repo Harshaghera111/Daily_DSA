@@ -51,6 +51,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 29 | Find the difference                            |Loop|
 | Day 30 | Daily temperature                              |Loop| 
 | Day 31 | Next Greater Element 1                         |Loop| 
+| Day 32 | Daily Exaluate Reverse Polish Notation         |Stack| 
 (Will be updated daily) 
 
 ---
