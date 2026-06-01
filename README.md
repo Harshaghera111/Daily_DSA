@@ -55,6 +55,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 33 | Min Stack                                      |Stack| 
 | Day 34 | Asteroid Collision                             |Stack| 
 | Day 35 | Decode String                                  |Stack| 
+| Day 36 | Koko Eats banana                               |Loop| 
 (Will be updated daily) 
 
 ---
