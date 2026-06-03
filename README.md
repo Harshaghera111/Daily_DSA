@@ -57,6 +57,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 35 | Decode String                                  |Stack| 
 | Day 36 | Koko Eats banana                               |Loop| 
 | Day 37 | Car Fleet                                      |Loop| 
+| Day 38 | Number of Good Pairs                           |Hashmap| 
 (Will be updated daily) 
 
 ---
