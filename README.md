@@ -59,6 +59,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 37 | Car Fleet                                      |Loop| 
 | Day 38 | Number of Good Pairs                           |Hashmap| 
 | Day 39 | Merge two sorted lists                         |Lisst, loops| 
+| Day 40 | 3Sum Closet                                    |loops| 
 (Will be updated daily) 
 
 ---
