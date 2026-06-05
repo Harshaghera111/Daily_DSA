@@ -58,6 +58,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 36 | Koko Eats banana                               |Loop| 
 | Day 37 | Car Fleet                                      |Loop| 
 | Day 38 | Number of Good Pairs                           |Hashmap| 
+| Day 39 | Merge two sorted lists                         |Lisst, loops| 
 (Will be updated daily) 
 
 ---
