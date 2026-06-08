@@ -61,6 +61,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 39 | Merge two sorted lists                         |Lisst, loops| 
 | Day 40 | 3Sum Closet                                    |loops| 
 | Day 41 | Longest Palindromic Substring                  |loops| 
+| Day 42 |4Sum                                            |Nested loops| 
 (Will be updated daily) 
 
 ---
