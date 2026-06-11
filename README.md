@@ -63,7 +63,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 | Day 41 | Longest Palindromic Substring                  |loops| 
 | Day 42 |4Sum                                            |Nested loops| 
 | Day 43 |Search in rotated array II                      |Nested loops| 
-| Day 44 |4Sum                                            |Nested loops| 
+| Day 44 |Find the Index of the First Occurrence in a String                                                     |Nested loops| 
 | Day 45 |4Sum                                            |Nested loops| 
 (Will be updated daily) 
 
